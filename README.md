@@ -3,11 +3,8 @@
 My Classwork solutions for Programming Systems and Tools (CS580U)
 
 Program1: Revisiting basic C concepts
-
 Variables and arithematic
-
 Data types and type casting
-
 Functions and recursion
 
 Program2: Unix Tools and Bits
