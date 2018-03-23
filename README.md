@@ -1,6 +1,9 @@
 # Programming-System-Tools
 
 My Classwork solutions for Programming Systems and Tools (CS580U)
+# By using this code, you agree to appropriate licences
+
+# This code is a part of academic project and is for illustration purposes only
 
 Program1: Revisiting basic C concepts
 Variables and arithematic
